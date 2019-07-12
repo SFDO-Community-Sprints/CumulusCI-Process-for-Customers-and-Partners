@@ -13,7 +13,7 @@ Salesforce Customers, Partners who are interested in using CumulusCI for sustain
 ### Project Team
 
 * Team Leader:
-      Brennan Butler (Now IT Matters) - BrennanButlerRAD
+      [Brennan Butler](https://github.com/brennanbutlerRAD) (Now IT Matters)
 * List of Contributors: <br>
 [Jason Lantz](https://github.com/jlantz) (Salesforce.org)<br>
 [David Glick](https://github.com/davisagli)

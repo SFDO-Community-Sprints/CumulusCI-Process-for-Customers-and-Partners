@@ -14,12 +14,13 @@ Salesforce Customers, Partners who are interested in using CumulusCI for sustain
 
 * Team Leader:
       Brennan Butler (Now IT Matters) - BrennanButlerRAD
-* List of Contributors:
-      Jason Lantz (Salesforce.org)
-      David Glick (Salesforce.org)
-      Jace Brayn (Salesforce.org)
-      Sally Burns (Habitat for Humanity - Michigan)
-      John Marcovecchio (Salesforce.org)
+* List of Contributors: <br>
+[Jason Lantz](https://github.com/jlantz) (Salesforce.org)<br>
+[David Glick](https://github.com/davisagli)
+(Salesforce.org)<br>
+[John Marcovecchio](https://github.com/johnmarco) (Salesforce.org)<br>
+[Jace Brayn](https://github.com/jacebryan) (Salesforce.org)<br>
+[Sally Burns](https://github.com/sallyb) (Habitat for Humanity - Michigan)<br>
 
 ### Project Team Accomplishments
 Started building out the base process for how Customers and Partners can use CumulusCI to create and maintain a sustainable product lifecycle development with customized documentation for Organizations 

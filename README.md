@@ -21,6 +21,7 @@ Salesforce Customers, Partners who are interested in using CumulusCI for sustain
 [John Marcovecchio](https://github.com/johnmarco) (Salesforce.org)<br>
 [Jace Brayn](https://github.com/jacebryan) (Salesforce.org)<br>
 [Sally Burns](https://github.com/sallyb) (Habitat for Humanity - Michigan)<br>
+Melissa Hill Dees (Hands on Connect)
 
 ### Project Team Accomplishments
 Started building out the base process for how Customers and Partners can use CumulusCI to create and maintain a sustainable product lifecycle development with customized documentation for Organizations 

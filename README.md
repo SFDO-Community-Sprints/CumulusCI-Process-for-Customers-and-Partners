@@ -27,7 +27,4 @@ Salesforce Customers, Partners who are interested in using CumulusCI for sustain
 Started building out the base process for how Customers and Partners can use CumulusCI to create and maintain a sustainable product lifecycle development with customized documentation for Organizations 
 
 ### Contributing
-If someone were to contribute to this project at the next Sprint what would you want them to work on to move this project forward?
-
-### Project Roadmap
-What is the ultimate vision for this project?
+Contact me at: Brennanbutler@nowitmatters.com if you would like to contribute to this project. 

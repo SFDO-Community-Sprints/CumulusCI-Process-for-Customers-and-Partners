@@ -19,7 +19,7 @@ Salesforce Customers, Partners who are interested in using CumulusCI for sustain
 [David Glick](https://github.com/davisagli)
 (Salesforce.org)<br>
 [John Marcovecchio](https://github.com/johnmarco) (Salesforce.org)<br>
-[Jace Brayn](https://github.com/jacebryan) (Salesforce.org)<br>
+[Jace Bryan](https://github.com/jacebryan) (Salesforce.org)<br>
 [Sally Burns](https://github.com/sallyb) (Habitat for Humanity - Michigan)<br>
 [Melissa Hill Dees](https://github.com/melissahilldees) (Hands on Connect)
 

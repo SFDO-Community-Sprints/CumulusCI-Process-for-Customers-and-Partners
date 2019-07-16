@@ -26,5 +26,29 @@ Salesforce Customers, Partners who are interested in using CumulusCI for sustain
 ### Project Team Accomplishments
 Started building out the base process for how Customers and Partners can use CumulusCI to create and maintain a sustainable product lifecycle development with customized documentation for Organizations 
 
+Curent Progress (This list will grow and shrink as we move through this project
+Need: Use Cases
+      What are the benifits of using Scratch Orgs over Sandboxes for Development
+Page 1: Base Map - 30K foot view of process
+      Needs: Explination of Flavors and Toppings
+             Exlipnation of MVP and Open Source Commons
+      
+Page 2: Feature Development - Map for developing Features useing CumulusCI
+      Needs: Meta CI information - How do to this and how this actually works (This whole project is for novices as well)
+
+Page 3: One Time Set up - Partners
+      Needs: More Explination of the Alt Branch
+             More information on the commands in the notes section
+             
+Page 4: One Time Set Up Customer
+      Needs: Exlipnation of commands that they are entering into the Command Line or Terminal
+             Python Exlination: Why they need Python so that they can talk inteligently about it and pass it by their IT Department if                      needed
+             FAQ Doc: Create an FAQ Doc based on the CumulusCI Training Chat Room
+             
+Page 5: Develop In Org: Not Done - Will have this done by EOD 7/17/2019 with Next Step list of Tasks.
+             
+      
+
+
 ### Contributing
 Contact me at: Brennanbutler@nowitmatters.com if you would like to contribute to this project. 

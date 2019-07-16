@@ -21,12 +21,13 @@ Salesforce Customers, Partners who are interested in using CumulusCI for sustain
 [John Marcovecchio](https://github.com/johnmarco) (Salesforce.org)<br>
 [Jace Bryan](https://github.com/jacebryan) (Salesforce.org)<br>
 [Sally Burns](https://github.com/sallyb) (Habitat for Humanity - Michigan)<br>
-[Melissa Hill Dees](https://github.com/melissahilldees) (Hands on Connect)
+[Melissa Hill Dees](https://github.com/melissahilldees) (Hands on Connect)<br>
+[Estaban Dozsa](https://github.com/estebanavv) (Hands on Connect)
 
 ### Project Team Accomplishments
 Started building out the base process for how Customers and Partners can use CumulusCI to create and maintain a sustainable product lifecycle development with customized documentation for Organizations 
 
-Curent Progress (This list will grow and shrink as we move through this project<br>
+<b>Curent Progress</b> (This list will grow and shrink as we move through this project<br>
 Need: Use Cases<br>
       What are the benifits of using Scratch Orgs over Sandboxes for Development<br>
 Page 1: Base Map - 30K foot view of process<br>
@@ -37,7 +38,7 @@ Page 2: Feature Development - Map for developing Features useing CumulusCI<br>
       Needs: Meta CI information - How do to this and how this actually works (This whole project is for novices as well)<br>
 
 Page 3: One Time Set up - Partners<br>
-      Needs: More Explination of the Alt Branch<br>
+      Needs: More Explanation of the Alt Branch<br>
              More information on the commands in the notes section<br>
              
 Page 4: One Time Set Up Customer<br>

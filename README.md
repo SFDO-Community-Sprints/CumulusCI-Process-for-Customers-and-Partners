@@ -24,33 +24,7 @@ Salesforce Customers, Partners who are interested in using CumulusCI for sustain
 [Melissa Hill Dees](https://github.com/melissahilldees) (Hands on Connect)<br>
 [Estaban Dozsa](https://github.com/estebanavv) (Hands on Connect)
 
-### Project Team Accomplishments
-Started building out the base process for how Customers and Partners can use CumulusCI to create and maintain a sustainable product lifecycle development with customized documentation for Organizations 
-
-<b>Current Progress</b> (This list will grow and shrink as we move through this project<br>
-<u>Need:</u> Use Cases<br>
-      What are the benefits of using Scratch Orgs over Sandboxes for Development<br>
-<b>Page 1: Base Map</b> - 30K foot view of process<br>
-      <u>Needs:</u> Explanation of Flavors and Toppings<br>
-             Explanation of MVP and Open Source Commons<br>
-      
-<b>Page 2: Feature Development</b> - Map for developing Features using CumulusCI<br>
-      <u>Needs:</u> Meta CI information - How do to this and how this actually works (This whole project is for novices as well)<br>
-
-<b>Page 3: One Time Set up</b> - Partners<br>
-      <u>Needs:</u> More Explanation of the Alt Branch<br>
-             More information on the commands in the notes section<br>
-             
-<b>Page 4: One Time Set Up Customer</b><br>
-      <u>Needs:</u> Explanation of commands that they are entering into the Command Line or Terminal<br>
-             Python Explanation: Why they need Python so that they can talk intelligently about it and pass it by their IT Department if                      needed<br>
-             FAQ Doc: Create an FAQ Doc based on the CumulusCI Training Chat Room<br>
-             
-<b>Page 5: Develop In Org:</b> Not Done - Will have this done by EOD 7/17/2019 with Next Step list of Tasks.<br>
-
-             
-      
-
 
 ### Contributing
-Contact me at: Brennanbutler@nowitmatters.com if you would like to contribute to this project. 
+To help contribute to this project check out the [issues tab].(https://github.com/SFDO-Sprint-2019-Detroit/CumulusCI-Process-for-Customers-and-Partners/issues) and see where you would like to help. If you need edit access to any of the documentation contact me at Brennanbutler@nowitmatters.com
+

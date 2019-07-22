@@ -26,5 +26,5 @@ Salesforce Customers, Partners who are interested in using CumulusCI for sustain
 
 
 ### Contributing
-To help contribute to this project check out the [issues tab].(https://github.com/SFDO-Sprint-2019-Detroit/CumulusCI-Process-for-Customers-and-Partners/issues) and see where you would like to help. If you need edit access to any of the documentation contact me at Brennanbutler@nowitmatters.com
+To help contribute to this project check out the [Issues tab](https://github.com/SFDO-Sprint-2019-Detroit/CumulusCI-Process-for-Customers-and-Partners/issues) and see where you would like to help. If you need edit access to any of the documentation contact me at Brennanbutler@nowitmatters.com
 

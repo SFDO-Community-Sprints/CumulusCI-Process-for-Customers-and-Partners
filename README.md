@@ -30,3 +30,5 @@ Take a look at the [project wiki page](https://github.com/SFDO-Sprint-2019-Detro
 ### Contributing
 To help contribute to this project check out the [Issues tab](https://github.com/SFDO-Sprint-2019-Detroit/CumulusCI-Process-for-Customers-and-Partners/issues) and see where you would like to help. If you need edit access to any of the documentation contact me at Brennanbutler@nowitmatters.com
 
+Lucid Chart Documentation: https://www.lucidchart.com/invitations/accept/3863dc7f-8c5d-4cd1-ab47-70ce6cf00826
+

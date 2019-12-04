@@ -13,7 +13,7 @@ Salesforce Customers, Partners who are interested in using CumulusCI for sustain
 ### Project Team
 
 * Team Leader:
-      [Brennan Butler](https://github.com/brennanbutlerRAD) (Now IT Matters)
+      [Brennan Butler](https://github.com/brennanbutlerRAD) 
 * List of Contributors: 
   * [Jason Lantz](https://github.com/jlantz) (Salesforce.org)
   * [David Glick](https://github.com/davisagli) (Salesforce.org)
@@ -28,7 +28,7 @@ Salesforce Customers, Partners who are interested in using CumulusCI for sustain
 Take a look at the [project wiki page](https://github.com/SFDO-Sprint-2019-Detroit/CumulusCI-Process-for-Customers-and-Partners/wiki). Here you will find information on use cases, how to's, troubleshooting, presenting the information to executives, diagrams and more! If you are interested in contributing to this project please see the section below.
 
 ### Contributing
-To help contribute to this project check out the [Issues tab](https://github.com/SFDO-Sprint-2019-Detroit/CumulusCI-Process-for-Customers-and-Partners/issues) and see where you would like to help. If you need edit access to any of the documentation contact me at Brennanbutler@nowitmatters.com
+To help contribute to this project check out the [Issues tab](https://github.com/SFDO-Sprint-2019-Detroit/CumulusCI-Process-for-Customers-and-Partners/issues) and see where you would like to help. If you need edit access to any of the documentation contact me at Brennan.butler.ba@gmail.com
 
 Lucid Chart Documentation: https://www.lucidchart.com/invitations/accept/3863dc7f-8c5d-4cd1-ab47-70ce6cf00826
 
